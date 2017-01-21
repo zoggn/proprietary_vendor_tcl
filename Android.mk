@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),Miata)
+ifeq ($(TARGET_DEVICE),miata)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := qcrilmsgtunnel
