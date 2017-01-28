@@ -82,9 +82,17 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/miata/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/tcl/miata/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/tcl/miata/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
-    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_gc2235_common.so:system/vendor/lib/libchromatix_gc2235_common.so \
-    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_gc2235_default_video.so:system/vendor/lib/libchromatix_gc2235_default_video.so \
-    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_gc2235_preview.so:system/vendor/lib/libchromatix_gc2235_preview.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_gc0339_sunrise_common.so:system/vendor/lib/libchromatix_gc0339_sunrise_common.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_gc0339_sunrise_default_video.so:system/vendor/lib/libchromatix_gc0339_sunrise_default_video.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_gc0339_sunrise_preview.so:system/vendor/lib/libchromatix_gc0339_sunrise_preview.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_gc0339_sunrise_snapshot.so:system/vendor/lib/libchromatix_gc0339_sunrise_snapshot.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libmmcamera_gc0339_sunrise.so:system/vendor/lib/libmmcamera_gc0339_sunrise.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_ov8858_common.so:system/vendor/lib/libchromatix_ov8858_common.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_ov8858_default_video.so:system/vendor/lib/libchromatix_ov8858_default_video.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_ov8858_liveshot.so:system/vendor/lib/libchromatix_ov8858_liveshot.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_ov8858_preview.so:system/vendor/lib/libchromatix_ov8858_prevew.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_ov8858_snapshot.so:system/vendor/lib/libchromatix_ov8858_snapshot.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libmmcamera_ov8858:system/vendor/lib/libmmcamera_ov8858 \
     vendor/tcl/miata/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/tcl/miata/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/tcl/miata/proprietary/vendor/lib/libDivxDrm.so:system/vendor/lib/libDivxDrm.so \
