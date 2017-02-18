@@ -50,6 +50,7 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/miata/proprietary/etc/quipc.conf:system/etc/quipc.conf \
     vendor/tcl/miata/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/tcl/miata/proprietary/lib/hw/camera.vendor.msm8610.so:system/lib/hw/camera.vendor.msm8610.so \
+    vendor/tcl/miata/proprietary/lib/hw/sensors.msm8610.so:system/lib/hw/sensors.msm8610.so \
     vendor/tcl/miata/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/tcl/miata/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/tcl/miata/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
