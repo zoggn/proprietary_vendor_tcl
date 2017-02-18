@@ -149,9 +149,9 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/miata/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/tcl/miata/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/tcl/miata/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
-    vendor/tcl/miata/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/tcl/miata/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/tcl/miata/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/tcl/miata/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/tcl/miata/proprietary/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so:system/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so \
     vendor/tcl/miata/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
