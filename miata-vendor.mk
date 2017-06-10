@@ -45,6 +45,7 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/miata/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
     vendor/tcl/miata/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/tcl/miata/proprietary/etc/izat.conf:system/etc/izat.conf \
+    vendor/tcl/miata/proprietary/etc/permissions/android.hardware.camera.flash-autofocus.xml:system/etc/permissions/android.hardware.camera.flash-autofocus.xml \
     vendor/tcl/miata/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/tcl/miata/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/tcl/miata/proprietary/etc/quipc.conf:system/etc/quipc.conf \
