@@ -29,13 +29,13 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/miata/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/tcl/miata/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/tcl/miata/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/tcl/miata/proprietary/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb:system/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb \
-    vendor/tcl/miata/proprietary/etc/acdbdata/QRD/QRD_General_cal.acdb:system/etc/acdbdata/QRD/QRD_General_cal.acdb \
-    vendor/tcl/miata/proprietary/etc/acdbdata/QRD/QRD_Global_cal.acdb:system/etc/acdbdata/QRD/QRD_Global_cal.acdb \
-    vendor/tcl/miata/proprietary/etc/acdbdata/QRD/QRD_Handset_cal.acdb:system/etc/acdbdata/QRD/QRD_Handset_cal.acdb \
-    vendor/tcl/miata/proprietary/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb:system/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb \
-    vendor/tcl/miata/proprietary/etc/acdbdata/QRD/QRD_Headset_cal.acdb:system/etc/acdbdata/QRD/QRD_Headset_cal.acdb \
-    vendor/tcl/miata/proprietary/etc/acdbdata/QRD/QRD_Speaker_cal.acdb:system/etc/acdbdata/QRD/QRD_Speaker_cal.acdb \
+    vendor/tcl/miata/proprietary/etc/Bluetooth_cal.acdb:system/etc/Bluetooth_cal.acdb \
+    vendor/tcl/miata/proprietary/etc/General_cal.acdb:system/etc/General_cal.acdb \
+    vendor/tcl/miata/proprietary/etc/Global_cal.acdb:system/etc/Global_cal.acdb \
+    vendor/tcl/miata/proprietary/etc/Handset_cal.acdb:system/etc/Handset_cal.acdb \
+    vendor/tcl/miata/proprietary/etc/Hdmi_cal.acdb:system/etc/Hdmi_cal.acdb \
+    vendor/tcl/miata/proprietary/etc/Headset_cal.acdb:system/etc/Headset_cal.acdb \
+    vendor/tcl/miata/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
     vendor/tcl/miata/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/tcl/miata/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/tcl/miata/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
@@ -176,7 +176,6 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/miata/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/tcl/miata/proprietary/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so:system/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so \
     vendor/tcl/miata/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
-    vendor/tcl/miata/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/tcl/miata/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
 
 PRODUCT_PACKAGES += \
