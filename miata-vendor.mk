@@ -176,6 +176,7 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/miata/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/tcl/miata/proprietary/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so:system/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so \
     vendor/tcl/miata/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
+    vendor/tcl/miata/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/tcl/miata/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
 
 PRODUCT_PACKAGES += \
