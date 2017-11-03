@@ -97,6 +97,18 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/miata/proprietary/vendor/lib/libchromatix_gc0339_sunrise_preview.so:system/vendor/lib/libchromatix_gc0339_sunrise_preview.so \
     vendor/tcl/miata/proprietary/vendor/lib/libchromatix_gc0339_sunrise_snapshot.so:system/vendor/lib/libchromatix_gc0339_sunrise_snapshot.so \
     vendor/tcl/miata/proprietary/vendor/lib/libmmcamera_gc0339_sunrise.so:system/vendor/lib/libmmcamera_gc0339_sunrise.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_common.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_common.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_default_video.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_default_video.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_liveshot.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_liveshot.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_snapshot.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_snapshot.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_zsl.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_zsl.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libmmcamera_skuab_shinetech_gc0339.so:system/vendor/lib/libmmcamera_skuab_shinetech_gc0339.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_SKUAA_ST_gc0339_common.so:system/vendor/lib/libchromatix_SKUAA_ST_gc0339_common.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_SKUAA_ST_gc0339_default_video.so:system/vendor/lib/libchromatix_SKUAA_ST_gc0339_default_video.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_SKUAA_ST_gc0339_preview.so:system/vendor/lib/libchromatix_SKUAA_ST_gc0339_preview.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libchromatix_SKUAA_ST_gc0339_snapshot.so:system/vendor/lib/libchromatix_SKUAA_ST_gc0339_snapshot.so \
+    vendor/tcl/miata/proprietary/vendor/lib/libmmcamera_SKUAA_ST_gc0339.so:system/vendor/lib/libmmcamera_SKUAA_ST_gc0339.so \
     vendor/tcl/miata/proprietary/vendor/lib/libchromatix_ov8858_common.so:system/vendor/lib/libchromatix_ov8858_common.so \
     vendor/tcl/miata/proprietary/vendor/lib/libchromatix_ov8858_default_video.so:system/vendor/lib/libchromatix_ov8858_default_video.so \
     vendor/tcl/miata/proprietary/vendor/lib/libchromatix_ov8858_liveshot.so:system/vendor/lib/libchromatix_ov8858_liveshot.so \
